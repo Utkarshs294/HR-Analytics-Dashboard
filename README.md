@@ -8,14 +8,15 @@ HR Analytics Dashboard created on power BI
 
 Dashboard contains :-
 
-- Slicer
+- Title
 - Card
-- Donut chart
+- Slicer
 - Matrix
-- Stacked column chart
-- Bar chart
 - KPI
-
+- Bar chart
+- Donut chart
+- Stacked column chart
+  
 Insights :- 
 
 - The age group of (26 to 35) experiences the highest attrition rate.
