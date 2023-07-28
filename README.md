@@ -1,10 +1,10 @@
-# HR-analytics-Dashboard
+# HR-Analytics-Dashboard
 
 In this project I have created interactive dashboard using Excel, It was a challenging yet rewarding experience.
 
 This dashboard includes various charts and graphs that made it easy to analyze the data, I learned a lot about powerful features.
 
-HR analytics dashboard created on power BI
+HR Analytics Dashboard created on power BI
 
 Dashboard contains :-
 
